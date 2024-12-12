@@ -7,13 +7,10 @@
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-rodando-a-aplicação">Rodando a aplicação</a> •
-  <a href="#-layout">Layout</a> •
-  <a href="#-tecnologias">Tecnologias</a> 
 </p>
 
 <br/>
 
-![Cover](.github/cover.png)
 
 ## 💻 Sobre o projeto
 
